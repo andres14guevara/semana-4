@@ -18,7 +18,7 @@ En otras palabras:
 - Si el sistema es controlable, el rango de la matriz de controlabilidad es igual a la cantidad de variables de estado.
 
 #### Ejemplo:
-_**Espacio para subir una imagen aquí.**_
+![](https://github.com/andres14guevara/semana-4/blob/main/imagen%202-3apuntes..png)
 
 ---
 
