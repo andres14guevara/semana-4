@@ -35,7 +35,7 @@ En otras palabras:
 - Si el sistema es observable, el rango de la matriz de observabilidad es igual a la cantidad de variables de estado.
 
 #### Ejemplo:
-_**Espacio para subir una imagen aquí.**_
+![](https://github.com/andres14guevara/semana-4/blob/main/imagen%201-3apuntes..png)
 
 ---
 
