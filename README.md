@@ -91,7 +91,7 @@ El objetivo de la **retroalimentación de estados** es asignar los polos del sis
 
 ---
 
-## Notas Finales
+## CONCLUSIONES
 
 - **Controlabilidad y Observabilidad** son conceptos esenciales en el diseño de controladores.
 - La retroalimentación de estados permite controlar las dinámicas del sistema mediante la ubicación arbitraria de polos.
