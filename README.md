@@ -59,7 +59,7 @@ El objetivo de la **retroalimentación de estados** es asignar los polos del sis
 
 ## Representación en Bloques del Espacio de Estados
 
-_**Espacio para subir una imagen aquí.**_
+![](https://github.com/andres14guevara/semana-4/blob/main/imagen%203-3apuntes..png)
 
 ---
 
@@ -96,13 +96,6 @@ _**Espacio para subir una imagen aquí.**_
 - **Controlabilidad y Observabilidad** son conceptos esenciales en el diseño de controladores.
 - La retroalimentación de estados permite controlar las dinámicas del sistema mediante la ubicación arbitraria de polos.
 
-### Espacios Reservados para Imágenes
 
-Reemplaza los espacios etiquetados como _**Espacio para subir una imagen aquí**_ con tus diagramas, matrices, o ejemplos específicos.
 
----
-
-### Autor
-
-_Agrega aquí el nombre o equipo que desarrolla este contenido._
 
